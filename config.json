@@ -1,0 +1,29 @@
+{
+	"appName": "Alice in api land",
+	"apiVersions": [
+		{
+			"name": "v1",
+			"link": "/v1/FAQ.md"
+		},
+		{
+			"default": true,
+			"name": "v2",
+			"link": "/v2/Getting-Started.md"
+		}
+	],
+	"navigationLinks" : [
+		{
+			"text": "Documentation",
+			"link": "/v2/Getting-Started.md"
+		},
+		{
+			"text": "Api Reference",
+			"link": "/api/v2"
+		}
+	],
+	"stageConfig": {
+		"title": "My awesome API",
+		"subtitle": "It's fantastic. Believe me. It's true.",
+		"background": "stage-bg.jpg"
+	}
+}
