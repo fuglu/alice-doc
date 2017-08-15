@@ -1,6 +1,6 @@
 {
-	"appName": "Alice in api land",
-	"apiVersions": [
+	"name": "Alice in api land",
+	"versions": [
 		{
 			"name": "v1",
 			"link": "/v1/FAQ.md"
