@@ -2,25 +2,16 @@
 	"name": "Alice in api land",
 	"versions": [
 		{
-			"name": "v1",
-			"link": "/v1/FAQ.md"
+			"name": "v1.0.0",
+			"path": "v1"
 		},
 		{
 			"default": true,
-			"name": "v2",
-			"link": "/v2/Getting-Started.md"
+			"name": "v2.0.0",
+			"path": "v2"
 		}
 	],
-	"navigationLinks" : [
-		{
-			"text": "Documentation",
-			"link": "/v2/Getting-Started.md"
-		},
-		{
-			"text": "Api Reference",
-			"link": "/api/v2"
-		}
-	],
+	"navigationLinks" : [],
 	"stageConfig": {
 		"title": "My awesome API",
 		"subtitle": "It's fantastic. Believe me. It's true.",
